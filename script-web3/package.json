@@ -1,0 +1,23 @@
+{
+  "name": "script-web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "type": "module",
+  "module": "esnext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.5",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "web3": "^1.8.0"
+  }
+}
