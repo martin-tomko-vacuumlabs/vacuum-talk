@@ -1,6 +1,6 @@
 const Number = artifacts.require("Number");
-const protocolConfig = require("../truffle-config.js").protocolConfig;
+const contractConfig = require("../truffle-config.js").contractConfig;
 
 module.exports = function (deployer) {
-  deployer.deploy(Number, protocolConfig.owner);
+  deployer.deploy(Number, contractConfig.owner);
 };

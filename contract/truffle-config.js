@@ -4,7 +4,7 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 module.exports = {
   contracts_directory: "./src",
 
-  protocolConfig: {
+  contractConfig: {
     owner: "0x1867Cd64DE4F9aEcfbC14846bc736cd7008dca40"
   },
 
