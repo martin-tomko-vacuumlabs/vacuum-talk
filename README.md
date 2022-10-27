@@ -25,6 +25,8 @@ It is good to have at least some knowledge of blockchain technology and Ethereum
 
 The documentation of various tools and libraries you will use is also often very insightful. Such resources are included in each project's README.
 
+If you want to try out smart contracts without installing anything on your computer, you can also try the [Remix IDE](https://remix-project.org/).
+
 All three projects in this repository also require some knowledge of JavaScript / TypeScript. To grasp the basics of JavaScript, I recommend the interactive courses at <https://www.freecodecamp.org/> (which also contains courses related to some of the technologies used in the [`browser-ethers`](/browser-ethers/) project). TypeScript is a superset of JavaScript and many good resources about it can be found on [the official website](https://www.typescriptlang.org/). For a deeper understanding of JavaScript, I wish you good luck and lots of patience.
 
 ## Milkomeda C1 Testnet
